@@ -1,1 +1,14 @@
 
+header{
+  background-color: darkred; 
+  height : 4em;
+  color: white;
+  text-align: center; 
+}
+main{
+
+}
+
+footer{
+    background-color: rgb(255, 16, 16);
+}
